@@ -14,6 +14,7 @@
 * [lego-walker](https://github.com/akrakowiak/lego-walker) - 🤖 Robotics project involving automated LEGO walking mechanism
 * [luigis-pizza](https://github.com/akrakowiak/luigis-pizza) - 🍕 E-commerce web application for a pizza restaurant
 * [recipes-website](https://github.com/akrakowiak/recipes-website) - 🍳 Full-stack platform for sharing and discovering culinary recipes
+* [car-dealership](https://github.com/akrakowiak/car-dealership) - 🚗 Platform for browsing and managing vehicle inventory and sales (in development)
 
 ### 📫 Connect with me:
 
